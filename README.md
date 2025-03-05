@@ -1,2 +1,2 @@
 # AudioViz1.0
-An audio visualizer utilizing PortAudio and OpenGL.
+A C++ audio visualizer utilizing PortAudio and OpenGL.
