@@ -1,4 +1,7 @@
 # AudioViz1.0
+
+<img width="803" alt="Screenshot 2025-03-05 at 5 26 04 PM" src="https://github.com/user-attachments/assets/ae4b84ea-b805-4ff7-948d-651260fa67c3" />
+
 Install dependencies:
 
 ### Port Audio (Audio Sampling)
