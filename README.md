@@ -50,3 +50,13 @@ From left to right, the four sliders control:
 - Waveform amplitude
 - Waveform point size
 - Amplitude indicator magnitude
+
+
+
+
+https://github.com/user-attachments/assets/30148e58-c39e-4cc7-b927-90612632cdb3
+
+
+
+https://github.com/user-attachments/assets/bd2908d1-7a43-40e8-9261-67d7a7ea0a50
+
